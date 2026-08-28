@@ -23,10 +23,10 @@ repository               : "boigerr/boigerr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Boiger_Romana.jpg"
   name             : "Romana Boiger"
   pronouns         : # example: "she/her"  
-  bio              : "Test"
+  bio              : "Tenure-track scientist developing machine-learning and computational methods for reactive transport, geochemistry and environmental applications."
   location         : "Switzerland"
   employer         : "PSI Paul Scherrer Institute"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=VucA8K4AAAAJ&hl=de&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-5263-5716"
