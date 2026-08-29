@@ -9,9 +9,9 @@ redirect_from:
 
 I am a **Tenure-Track Scientist at the Paul Scherrer Institute (PSI)** in Switzerland, working in the **Transport Mechanisms Group of the Laboratory for Waste Management**.
 
-My research lies at the intersection of **applied mathematics, machine learning, scientific computing, and environmental and materials sciences**. I develop data-driven and computational methods for complex scientific problems, with a particular focus on **scientific machine learning, explainable AI, uncertainty quantification, surrogate modelling, and inverse problems**.
+My research lies at the intersection of **applied mathematics, machine learning, scientific computing, optimization, reactive transport modeling and environmental and materials sciences**. **scientific machine learning, explainable AI, uncertainty quantification, surrogate modelling, and inverse problems**.
 
-A central theme of my work is **trustworthy data science for scientific applications**: connecting data with domain knowledge and physical models to produce results that are not only accurate and computationally efficient, but also interpretable, uncertainty-aware, and scientifically meaningful.
+% A central theme of my work is **trustworthy data science for scientific applications**: connecting data with domain knowledge and physical models to produce results that are not only accurate and computationally efficient, but also interpretable, uncertainty-aware, and scientifically meaningful.
 
 ## Current Research
 
