@@ -33,11 +33,11 @@ Research Projects:
 
 ### EURAD2: European Partnership on Radioactive Waste Management
 
-[View the project on the SNSF Data Portal →](https://www.ejp-eurad.eu/)
+[View the project →](https://www.ejp-eurad.eu/)
 
 ### SCENE: swiss center of excellence on net zero emissions: 
 
-[View the project on the SNSF Data Portal →](https://www.scene-project.ch/)
+[View the project →](https://www.scene-project.ch/)
 
 ### PSI Career Return Program — Inverse Models for Particle Accelerators
 
