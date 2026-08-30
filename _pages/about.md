@@ -13,20 +13,7 @@ My background is in **numerical mathematics, inverse problems, and optimization*
 
 My research spans applications in **geoscience and nuclear waste management, sustainable materials, and large-scale scientific facilities**. Across these different domains, my goal is to use mathematical and data-driven methods to make complex simulations and analyses **faster, more informative, and applicable to problems that would otherwise be computationally difficult to address**.
 
-## Current Research
 
-My current work focuses on three main directions:
-
-**AI for geological characterization**  
-Machine learning and computer vision for extracting geological and mineralogical information from drill-core images and subsurface data.
-
-**Machine-learning-assisted reactive transport**  
-Surrogate models and computational methods for accelerating geochemical and reactive transport simulations.
-
-**Machine learning and optimization for sustainable materials**  
-Combining physics-based modelling, machine learning, and mathematical optimization for the development of lower-carbon materials.
-
-[**Explore my research →**](/research/)
 
 ## Featured
 
