@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Tenure-Track Scientist at the Paul Scherrer Institute (PSI)** in Switzerland, working at the intersection of **applied mathematics, data science, and interdisciplinary research**.
+I am a **Tenure-Track Scientist at the Paul Scherrer Institute (PSI)** in Switzerland, working at the intersection of **applied mathematics, data science, and interdisciplinary research**, with **10 years of professional experience in data science, machine learning, and computer vision**.
 
 My background is in **numerical mathematics, inverse problems, and optimization**. Today, I develop and apply computational methods — including **machine learning, scientific computing, surrogate modelling, and uncertainty quantification** — to complex scientific problems.
 
