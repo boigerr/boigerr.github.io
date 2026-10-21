@@ -17,7 +17,7 @@ Michael Roy · Paul Scherrer Institute · ongoing
 ### Master Theses
 
 **Multimodal Prediction of Bulk Mineralogy from Drillcore Images and Fullbore Formation Microimaging Data**
-Emil Fahrig· Paul Scherrer Institute · 2024
+Emil Fahrig· Paul Scherrer Institute · 2026
 
 **Accelerating Subsurface Exploration: Deep Learning based Drill Core Image Analysis**
 Sai Vijaya Bhargavi Akavarapu · Paul Scherrer Institute · 2025
